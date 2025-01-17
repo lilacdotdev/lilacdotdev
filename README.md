@@ -16,8 +16,8 @@
 
 ### Projects 🌱
 
-- Personal Portfolio @ [lilaccs.dev](lilaccs.dev)
-- Platinum Crown @ [Devlog](lilaccs.dev/devlog)
+- Personal Portfolio @ [lilaccs.dev](https://lilaccs.dev)
+- Platinum Crown @ [Devlog](https://lilaccs.dev/devlog)
 - Home Lab Setup @ ``TBA``
 - Graphics and C Understanding @ ``TBA``
 
