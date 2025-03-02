@@ -18,6 +18,7 @@
 
 - Personal Portfolio @ [lilaccs.dev](https://lilaccs.dev)
 - Platinum Crown @ [Devlog](https://lilaccs.dev/devlog)
+- Terminal Webapp @ [Terminal](https://terminal.lilaccs.dev)
 - Home Lab Setup @ ``TBA``
 - Graphics and C Understanding @ ``TBA``
 
