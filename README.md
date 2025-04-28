@@ -41,7 +41,7 @@
 
 <p align="left">I'm open to Project Collaboration!</p>
 
-Contact me at [sebastian@lilaccs.dev](mailto:sebastian@lilaccs.dev)
+Contact me at [talk@lilaccs.dev](mailto:sebastian@lilaccs.dev)
 
 #
 
