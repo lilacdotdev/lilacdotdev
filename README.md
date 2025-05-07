@@ -1,8 +1,8 @@
 <h1 align="center">🪻 Lilac 🌺</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Software Development-purple">
-  <img src="https://img.shields.io/badge/Game Development-purple">
-  <img src="https://img.shields.io/badge/DevOps-purple">
+  <img src="https://img.shields.io/badge/Full_Stack-MERN-purple">
+  <img src="https://img.shields.io/badge/Game_Dev-Godot-purple">
+  <img src="https://img.shields.io/badge/Content-YT-purple">
 </p>
 
 ### Bio 🪪
