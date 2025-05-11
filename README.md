@@ -1,4 +1,4 @@
-<h1 align="center">🪻 Lilac 🌺</h1>
+<h1 align="center">🪻 LilacDotDev 🌺</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Full_Stack-MERN-purple">
   <img src="https://img.shields.io/badge/Game_Dev-Godot-purple">
@@ -6,9 +6,8 @@
 </p>
 
 ### Bio 🪪
-
-<p align="left">Hiya!! My name is Sebastian (aka Lilac).</p> 
-<p align="left">I'm a Developer, Indie Game Dev, and aspiring DevOps Engineer who has a passion for exploring tech.</p>
+<p align="left">Welcome!! My name is Sebastian (aka Lilac).</p> 
+<p align="left">I'm a Developer, Indie Game Dev, and aspiring Full-Stack Developer who has a passion for exploring tech.</p>
 <p align="left">From making graphics and shaders to programming webapps, I love to experiment with frameworks, libraries, and languages to teach myself how to make better solutions.</p>
 <p align="left">My hobbies include playing guitar, painting, and making videos for YouTube in which I share my development adventures with my in-progress game <a href="https://lilaccs.dev/devlog">Platinum Crown.</a></p>
 
@@ -33,7 +32,7 @@
 
 **Experience 🔨**
 <p align="left">Internet Technology Operations Intern at <i>City of Coconut Creek</i></p>
-<p align="left">2024 - Present</p>
+<p align="left">2024 - 2025</p>
 
 #
 
@@ -80,7 +79,6 @@ Contact me at [talk@lilaccs.dev](mailto:sebastian@lilaccs.dev)
 <img alt="Github" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img alt="Godot" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
 <img alt="JetBrains" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg"/>
-<img alt="Kubernetes" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/>
 <img alt="VS Code" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img alt="Wordpress" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"/>
 </br>
