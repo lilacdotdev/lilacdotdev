@@ -1,25 +1,26 @@
 <h1 align="center">🪻 LilacDotDev 🌺</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack-MERN-purple">
-  <img src="https://img.shields.io/badge/Game_Dev-Godot-purple">
-  <img src="https://img.shields.io/badge/Content-YT-purple">
+  <img src="https://img.shields.io/badge/AI/ML-purple">
+  <img src="https://img.shields.io/badge/Web Dev-purple">
+  <img src="https://img.shields.io/badge/Game Dev-purple">
 </p>
 
 ### Bio 🪪
 <p align="left">Welcome!! My name is Sebastian (aka Lilac).</p> 
-<p align="left">I'm a Developer, Indie Game Dev, and aspiring Full-Stack Developer who has a passion for exploring tech.</p>
+<p align="left">I'm a Machine Learning Developer who has an interest in creating advanced computing tools that help others with day to day life.</p>
 <p align="left">From making graphics and shaders to programming webapps, I love to experiment with frameworks, libraries, and languages to teach myself how to make better solutions.</p>
-<p align="left">My hobbies include playing guitar, painting, and making videos for YouTube in which I share my development adventures with my in-progress game <a href="https://lilaccs.dev/devlog">Platinum Crown.</a></p>
+<p align="left">My hobbies include playing guitar, painting, and hiking. I love adventures both behind a screen and behind a mountain.</p>
+<p align="center">Learn more on <a href="https://lilaccs.dev">my site</a>!</p>
 
 #
 
 ### Projects 🌱
 
-- Personal Portfolio @ [lilaccs.dev](https://lilaccs.dev)
-- Platinum Crown @ [Devlog](https://lilaccs.dev/devlog)
-- Terminal Webapp @ [Terminal](https://terminal.lilaccs.dev)
-- Home Lab Setup @ ``TBA``
-- Graphics and C Understanding @ ``TBA``
+- Personal Portfolio @ [lilaccs.dev](https://lilaccs.dev/)
+- Personal Blog @ [Devlog](https://docs.lilaccs.dev/)
+- Terminal Webapp @ [Terminal](https://terminal.lilaccs.dev/)
+- Contact Card Site @ [Card](https://card.lilaccs.dev/)
+  <p align="center">and all other Projects @ <a href="https://docs.lilaccs.dev/filter=projects">Projects</a></p>
 
 #
 
@@ -55,7 +56,6 @@ Contact me at [talk@lilaccs.dev](mailto:sebastian@lilaccs.dev)
 <img alt="Java" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img alt="Markdown" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"/>
 <img alt="Python" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img alt="R" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 </br>
 
 #
