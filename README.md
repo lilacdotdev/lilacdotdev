@@ -20,7 +20,7 @@
 - Personal Blog @ [Devlog](https://docs.lilaccs.dev/)
 - Terminal Webapp @ [Terminal](https://terminal.lilaccs.dev/)
 - Contact Card Site @ [Card](https://card.lilaccs.dev/)
-  <p align="center">and all other Projects @ <a href="https://docs.lilaccs.dev/filter=projects">Projects</a></p>
+  <p align="center">and all other Projects @ <a href="https://docs.lilaccs.dev/?filter=Projects">Projects</a></p>
 
 #
 
