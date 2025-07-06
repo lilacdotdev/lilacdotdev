@@ -1,13 +1,13 @@
-<h1 align="center">🪻 LilacDotDev 🌺</h1>
+<h1 align="center">Hi! I'm Lilac! 🪻</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/AI/ML-purple">
-  <img src="https://img.shields.io/badge/Web Dev-purple">
-  <img src="https://img.shields.io/badge/Game Dev-purple">
+  <img src="https://img.shields.io/badge/Focus-DevOps-purple">
+  <img src="https://img.shields.io/badge/Education-B.S. Comp. Sci.-purple">
+  <img src="https://img.shields.io/badge/Passion-Game Dev-purple">
 </p>
 
 ### Bio 🪪
 <p align="left">Welcome!! My name is Sebastian (aka Lilac).</p> 
-<p align="left">I'm a Machine Learning Developer who has an interest in creating advanced computing tools that help others with day to day life.</p>
+<p align="left">I'm a Developer who loves to create applications and find ways to effectively deploy them.</p>
 <p align="left">From making graphics and shaders to programming webapps, I love to experiment with frameworks, libraries, and languages to teach myself how to make better solutions.</p>
 <p align="left">My hobbies include playing guitar, painting, and hiking. I love adventures both behind a screen and behind a mountain.</p>
 <p align="center">Learn more on <a href="https://lilaccs.dev">my site</a>!</p>
@@ -15,25 +15,31 @@
 #
 
 ### Projects 🌱
-
 - Personal Portfolio @ [lilaccs.dev](https://lilaccs.dev/)
 - Personal Blog @ [Devlog](https://docs.lilaccs.dev/)
-- Terminal Webapp @ [Terminal](https://terminal.lilaccs.dev/)
 - Contact Card Site @ [Card](https://card.lilaccs.dev/)
+- D&D Map Ideas @ [MapGen](https://maps.lilaccs.dev/)
   <p align="center">and all other Projects @ <a href="https://docs.lilaccs.dev/?filter=Projects">Projects</a></p>
 
 #
 
 ### Education & Experience 🕖
-**Education 📖**
+<ins>**Education 📖**</ins>
 <p align="left">Bachelor of Science in Computer Science from <i>Florida International University</i></p>
 <p align="left">2022 - 2025</p>
 
 ###
 
-**Experience 🔨**
+<ins>**Experience 🔨**</ins>
+<p align="left">AI Model Trainer at <i>DataAnnotations.tech</i></p>
+<p align="left">2025 - Present</p>
+
 <p align="left">Internet Technology Operations Intern at <i>City of Coconut Creek</i></p>
 <p align="left">2024 - 2025</p>
+
+<ins>**Certificates 📜**</ins>
+<p align="left">Supervised Machine Learning: Regression and Classification | <i>Stanford Online, Deeplearning.AI</i></p>
+<p align="left">May 2025</p>
 
 #
 
@@ -79,6 +85,8 @@ Contact me at [talk@lilaccs.dev](mailto:sebastian@lilaccs.dev)
 <img alt="Github" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img alt="Godot" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
 <img alt="JetBrains" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg"/>
+<img alt="Vim" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"/>
+<img alt="Neovim" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"/>
 <img alt="VS Code" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img alt="Wordpress" align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"/>
 </br>
@@ -93,18 +101,3 @@ Contact me at [talk@lilaccs.dev](mailto:sebastian@lilaccs.dev)
 </br>
 
 #
-
-<!--
-**lilacdotdev/lilacdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
