@@ -17,7 +17,6 @@
 ### Projects 🌱
 - Personal Portfolio @ [lilaccs.dev](https://lilaccs.dev/)
 - Personal Blog @ [Devlog](https://docs.lilaccs.dev/)
-- Contact Card Site @ [Card](https://card.lilaccs.dev/)
 - D&D Map Ideas @ [MapGen](https://maps.lilaccs.dev/)
   <p align="center">and all other Projects @ <a href="https://docs.lilaccs.dev/?filter=Projects">Projects</a></p>
 
@@ -47,7 +46,7 @@
 
 <p align="left">I'm open to Project Collaboration!</p>
 
-Contact me at [talk@lilaccs.dev](mailto:sebastian@lilaccs.dev)
+Contact me at [talk@lilaccs.dev](mailto:talk@lilaccs.dev)
 
 #
 
