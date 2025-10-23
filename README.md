@@ -6,19 +6,10 @@
 </p>
 
 ### Bio 🪪
-<p align="left">Welcome!! My name is Sebastian (aka Lilac).</p> 
-<p align="left">I'm a Developer who loves to create applications and find ways to effectively deploy them.</p>
-<p align="left">From making graphics and shaders to programming webapps, I love to experiment with frameworks, libraries, and languages to teach myself how to make better solutions.</p>
-<p align="left">My hobbies include playing guitar, painting, and hiking. I love adventures both behind a screen and behind a mountain.</p>
-<p align="center">Learn more on <a href="https://lilaccs.dev">my site</a>!</p>
-
-#
-
-### Projects 🌱
-- Personal Portfolio @ [lilaccs.dev](https://lilaccs.dev/)
-- Personal Blog @ [Devlog](https://docs.lilaccs.dev/)
-- D&D Map Ideas @ [MapGen](https://maps.lilaccs.dev/)
-  <p align="center">and all other Projects @ <a href="https://docs.lilaccs.dev/?filter=Projects">Projects</a></p>
+<p align="left">I'm Lilac, a software developer with a passion for game development.</p>
+<p align="left">I love forging worlds and being a creator of vast landscapes.</p>
+<p align="left">The idea of becoming a maker of spaces people can interact in is my dream.</p>
+<p align="center">Note: The majority of my git history is on my self-hosted Gitea server.</p>
 
 #
 
@@ -27,24 +18,11 @@
 <p align="left">Bachelor of Science in Computer Science from <i>Florida International University</i></p>
 <p align="left">2022 - 2025</p>
 
-###
-
-<ins>**Experience 🔨**</ins>
-<p align="left">AI Model Trainer at <i>DataAnnotations.tech</i></p>
-<p align="left">2025 - Present</p>
-
-<p align="left">Internet Technology Operations Intern at <i>City of Coconut Creek</i></p>
-<p align="left">2024 - 2025</p>
-
-<ins>**Certificates 📜**</ins>
-<p align="left">Supervised Machine Learning: Regression and Classification | <i>Stanford Online, Deeplearning.AI</i></p>
-<p align="left">May 2025</p>
-
 #
 
 ### Contact 📡
 
-<p align="left">I'm open to Project Collaboration!</p>
+<p align="left">I'm open to Project Collaboration</p>
 
 Contact me at [talk@lilaccs.dev](mailto:talk@lilaccs.dev)
 
