@@ -1,4 +1,4 @@
-<img src="images/banner.png" alt="Heya! I'm Lilac!">
+<img src="github-header-banner.png" alt="Heya! I'm Lilac!">
 <p align="center">
   <img src="https://img.shields.io/badge/Passion-Game%20Developer-purple">
   <img src="https://img.shields.io/badge/Engine-Godot-purple">
