@@ -5,17 +5,21 @@
 </p>
 
 ## About Me
-<p align="left">I'm Lilac, a software dev with a passion for game development.</p>
-<p align="left">I love forging worlds and being a creator of vast landscapes.</p>
-<p align="left">I use Godot, Blender, Aseprite, and lots of love!</p>
-<p align="left">I have an interest in self-hosting and local development.</p>
-<p align="left">I use Neovim as a text editor, and have a passion for CLI tools.</p>
+<ul>
+  <li>I'm Lilac, a software dev with a passion for game development</li>
+  <li>I love forging worlds and being a creator of vast landscapes</li>
+  <li>I use Godot, Blender, Aseprite, and lots of love</li>
+  <li>I have an interest in self-hosting and local development</li>
+  <li>I have a passion for CLI tools and 1-bit graphics</li>
+</ul>
 
 ## Fun Facts
-<p align="left">I've been playing guitar for about 13 years now, and I make metal.</p>
-<p align="left">All music used in my games is written by me and my lovely girlfriend.</p>
-<p align="left">Like most programmers, I dream of growing old and buying a farm.</p>
-<p align="left">i use arch btw</p>
+<ul>
+  <li>I've been playing guitar for about 13 years now, and I make metal</li>
+  <li>I originally majored in Nursing, and almost joined a program in Architecture</li>
+  <li>Like most programmers, I dream of growing old and buying a farm</li>
+  <li>i use arch btw</li>
+</ul>
 
 #
 
